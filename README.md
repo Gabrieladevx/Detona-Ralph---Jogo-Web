@@ -12,7 +12,7 @@ Este projeto é uma recriação do universo de "Detona Ralph" em um jogo web int
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em seu navegador.
+1. Abra o arquivo o link fornecido em seu navegador.
 2. Use as setas do teclado para controlar o personagem.
 3. Desvie dos obstáculos e tente marcar a maior pontuação!
 
